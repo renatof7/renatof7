@@ -6,5 +6,5 @@
 o mundo dos dados me cativou e mergulhei de cabeça nos estudos aprendendo manipulação de dados com 
 SQL, tratamento de dados com Python e dashbord com Power BI e Metabase
 
-🔭 Busco sempre evolução profissional e pessoal por isso estou gosta muito de um grande desafio. 
+🔭 Busco sempre evolução profissional e pessoal por isso gosto muito de um desafio. 
 
