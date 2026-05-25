@@ -76,7 +76,7 @@ Minha trajetória combina tecnologia com uma base sólida em finanças e operaç
 
 ## 🎓 Formação
 
-- Pós-graduação em Data Science.  
+- Especialização em Data Science.  
 - Especialização em Engenharia de Dados.  
 - Formação em Matemática.  
 - Bacharelado em Engenharia Civil.  
