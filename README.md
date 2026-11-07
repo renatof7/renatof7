@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou Renato Sousa 👋</h1>
+<h1 align="center">Olá, eu sou Renato </h1>
 
 <p align="center">
-  <strong>AI & Python Developer • Data Engineering • Machine Learning • Agentic AI</strong>
+  <strong>AI & Software Developer • Agentic AI • Data Engineering • Full-Stack</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor focado na construção de sistemas inteligentes, arquiteturas baseadas em LLMs e pipelines de dados. Uno uma sólida base matemática e analítica com engenharia de software para criar desde automações e ETLs até agentes de IA locais e assistentes conversacionais avançados.
+  Desenvolvedor focado na construção de sistemas inteligentes, arquiteturas baseadas em LLMs e soluções de ponta a ponta. Uno uma sólida base matemática, analítica e de negócios à engenharia de software para criar desde assistentes conversacionais avançados e automações até plataformas corporativas complexas.
 </p>
 
 <p align="center">
@@ -19,61 +19,59 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Atualmente, meu foco principal está no desenvolvimento de aplicações de Inteligência Artificial (Agentic AI, RAG, LLMs locais) e Machine Learning, integrando essas tecnologias com softwares full-stack de gestão financeira e operacional. 
+Atualmente, meu foco principal está no desenvolvimento de aplicações de Inteligência Artificial (Agentic AI, RAG, Tool Calling, orquestração de LLMs) e Machine Learning, integrando essas tecnologias com sistemas operacionais e de gestão.
 
-Trabalho no desenvolvimento end-to-end: desde a extração e tratamento de dados (ETL) e modelagem em PostgreSQL, até o deploy em VPS com Docker Compose e a criação de interfaces com Streamlit. Recentemente, tenho me aprofundado na pesquisa de otimização de inferência híbrida para sistemas Agentic AI.
+Trabalho em todo o ciclo de vida do software: desde a infraestrutura e modelagem de dados (PostgreSQL, ETLs), passando por aplicações web e desktop (Next.js, Streamlit, Go, Python), até a integração de modelos de IA locais e em nuvem com rigorosos *guardrails* determinísticos.
 
 ---
 
-## 🛠️ Stack Principal
+##  Stack Principal
 
 ### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF9900?style=for-the-badge)
 
-### Desenvolvimento Backend & Web
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Desenvolvimento Web & Desktop
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
-### Dados, Deploy e Infraestrutura
+### Dados, Automação & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-## 💻 Projetos em Destaque
+##  Projetos em Destaque
 
-- 🤖 **Lili_IA:** Assistente conversacional de IA para WhatsApp focado no setor imobiliário, construído com *Claude 3.5 Sonnet*, *LangChain* e *LangGraph*.
-- 🧠 **Arquitetura de Assistente Pessoal Local:** IA rodando 100% on-device utilizando *Ollama*, input de voz e texto, *LangChain*, vetorização com *ChromaDB* e logging via *SQLite*.
-- 📊 **Análise de Risco de Crédito (Machine Learning):** Projeto end-to-end de classificação de risco (`analise_de_risco_de_credito`). Inclui tratamento de dados desbalanceados (SMOTE), hyperparameter tuning e avaliação rigorosa do modelo.
-- 📄 **Local Resume Analyzer:** Aplicação on-device utilizando arquitetura RAG e LLMs locais para análise automatizada de currículos.
-- ⚙️ **Olist ETL Pipeline:** Pipeline automatizado de higienização de dados e extração para os datasets de e-commerce da Olist.
-- 📝 **Quiz App Gamificado:** Aplicação web interativa construída utilizando Google Apps Script, Google Sheets, HTML e CSS.
-
----
-
-## 📌 Experiência Prática
-
-- Desenvolvimento de agentes autônomos e sistemas RAG com integração de LLMs.
-- Criação e manutenção de software full-stack (Streamlit + Python) hospedado em VPS via Docker.
-- Pesquisa e implementação de extração de dados entre Qlik Sense Enterprise (QIX Engine WebSocket API), Power BI e PostgreSQL.
-- Desenvolvimento de dashboards avançados em Power BI utilizando DAX e visuais customizados (Deneb).
-- Ampla vivência em modelagem e estruturação de dados financeiros, consolidando regras de negócios em automações eficientes.
+- 🤖 **Lili Engine (IA de Atendimento Imobiliário):** Arquitetura de agente de IA para qualificação de leads via WhatsApp. Utiliza LLMs ultrarrápidos (Groq/Claude) combinados a um motor matemático determinístico (MCMV 2026), *Tool Calling*, *Lead Scoring* e integração direta com CRM para entregar resumos precisos e agendamentos com zero alucinação.
+- 🏢 **Intranet Corporativa TD Business:** Plataforma ERP/HR desenvolvida em Next.js 16, TypeScript, Tailwind e Prisma/Supabase. Engloba recrutamento com triagem de currículos via IA, gestão de desempenho (UWES-9, IWPQ), apontamento de horas, controle financeiro (Conta Azul) e automação documental.
+- ⚡ **ssdai (Assistente Portátil de Decisão de Inferência):** CLI portátil escrito em Go (sem dependências) para roteamento dinâmico de LLMs entre execução local (CPU via llama-server) e nuvem (Groq). Inclui calibração de hardware, estimativas de degradação de contexto e suporte a *In-Context Learning* para tomada de decisão autônoma.
+- 🧾 **SistemNFs & CentralNFs:** Ecossistema de automação fiscal. O *SistemNFs* é uma aplicação web (Python/Streamlit) para gestão de faturamento, validação de XMLs via IMAP e geração de PDFs. O *CentralNFs* é um app desktop (CustomTkinter/SQLite) para disparo seguro de Notas Fiscais e boletos em lote.
+- 📊 **Análise de Risco de Crédito (Machine Learning):** Projeto end-to-end de classificação de risco incluindo tratamento de dados desbalanceados (SMOTE), hyperparameter tuning e avaliação de modelo.
+- ⚙️ **Olist ETL Pipeline:** Pipeline automatizado de higienização e extração de dados utilizando repositórios complexos de e-commerce.
 
 ---
 
-## 🎓 Formação
+##  Experiência Prática & Visão de Negócio
 
-- **Especialização:** Data Science.
-- **Graduação:** Matemática (Universidade Católica de Brasília).
-- **Graduação:** Engenharia Civil (Universidade Paulista).
+- **Desenvolvimento End-to-End:** Criação e implantação de softwares full-stack, desde a modelagem de banco de dados até o deploy em VPS (Docker).
+- **Regras de Negócio e Finanças:** Ampla vivência em modelagem de dados financeiros, consolidando regras de negócios, rotinas de contas a pagar/receber e conciliação em automações e sistemas eficientes.
+- **Desenvolvimento de Agentes Autônomos:** Construção de arquiteturas RAG, integração de LLMs (nuvem e on-device) e uso de frameworks como LangChain/LangGraph.
+- **Engenharia de Dados e BI:** Extração, tratamento e consolidação de dados, além da construção de dashboards avançados em Power BI utilizando DAX e visuais customizados (Deneb).
+
+---
+
+##  Formação e Pesquisa
+
+- **Especializações:** Data Science | Engenharia de Dados
+- **Graduações:** Matemática | Engenharia Civil
