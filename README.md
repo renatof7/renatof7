@@ -72,9 +72,8 @@ Trabalho no desenvolvimento end-to-end: desde a extração e tratamento de dados
 
 ---
 
-## 🎓 Formação e Pesquisa
+## 🎓 Formação
 
-- **Pesquisa Acadêmica (2026):** Preparação de proposta de Mestrado em Ciência da Computação (UFSC) com foco em *otimização de inferência híbrida para sistemas Agentic AI*.
 - **Especialização:** Data Science.
 - **Graduação:** Matemática (Universidade Católica de Brasília).
 - **Graduação:** Engenharia Civil (Universidade Paulista).
